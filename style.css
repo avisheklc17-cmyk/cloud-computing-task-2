@@ -10,7 +10,7 @@
             margin: 0;
             height: 100vh;
 
-            background-image: url("file:///C:/Users/Galaxybook/Downloads/kdu.jpg");
+            background-image: ("kdu.jpg");
             background-size: cover;
             background-position: center;
             background-repeat: no-repeat;
